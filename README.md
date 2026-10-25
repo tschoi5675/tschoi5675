@@ -1,8 +1,9 @@
 ## Hi there 👋
-<div align="center">
+
 
 cto & cco @ Clou Stan Labs
 
+<div align="center">
 **Serenii** & **Kelp** @ **Clou Stan Labs** 
 
 ```
