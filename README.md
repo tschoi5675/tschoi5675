@@ -15,14 +15,11 @@ cto & cco @ Clou Stan Labs
 　　.
 
 
-
-
-  o8              oooo                              o88  
-o888oo  oooooooo8  888ooooo    ooooooo     ooooooo  oooo 
- 888   888ooooooo  888   888 888     888 888     888 888 
- 888           888 888   888 888         888     888 888 
-  888o 88oooooo88 o888o o888o  88ooo888    88ooo88  o888o
-⠀⠀
+  o8                          oooo                  o88  
+o888oo  oooooooo8    ooooooo   888ooooo    ooooooo  oooo 
+ 888   888ooooooo  888     888 888   888 888     888 888 
+ 888           888 888         888   888 888     888 888 
+  888o 88oooooo88    88ooo888 o888o o888o  88ooo88  o888o
 ⠀⠀⠀⠀⠀⠀⠀⣀⡄⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⡀⡀⠂⠂⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠐⢿⠓⠀⢀⡴⡏⠀⠀⠀⠀⠀⠀⣀⠔⢂⠁⠁⠀⠀⡐⠈⠀⠀⠀
 ⠀⠀⠹⡒⠤⣀⡀⠀⢀⡴⠋⢠⠇⠀⠀⠀⠠⠐⠈⠀⠀⠀⠀⡀⠐⠁⡐⠁⠀⠀⠄
