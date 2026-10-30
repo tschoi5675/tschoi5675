@@ -1,8 +1,8 @@
-l## Hi there 👋
+## Hi there 👋
 
 
 <div align="center">
-cto & cco @ Clou Stan Labs
+cto & cmo @ Clou Stan Labs
 
 [Serenii](https://serenii.ai) & [Kelp](https://kelplearn.com) @ **Clou Stan Labs** 
 
