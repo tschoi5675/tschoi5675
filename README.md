@@ -1,10 +1,10 @@
-## Hi there 👋
+l## Hi there 👋
 
 
 <div align="center">
 cto & cco @ Clou Stan Labs
 
-**Serenii** & **Kelp** @ **Clou Stan Labs** 
+[Serenii](serenii.ai) & [Kelp](kelplearn.com) @ **Clou Stan Labs** 
 
 ```
 ┆　┆　┆　┆　┆
